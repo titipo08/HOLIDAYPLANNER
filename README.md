@@ -139,4 +139,4 @@ A: The registration form and individual state pages are responsive and work on m
 Kinjal Sethiya titipo08
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
